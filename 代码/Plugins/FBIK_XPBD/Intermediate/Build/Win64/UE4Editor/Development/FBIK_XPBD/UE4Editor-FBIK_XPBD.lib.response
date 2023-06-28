@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FBIK_XPBD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\FullBodyIK_XPBD\Intermediate\Build\Win64\FullBodyIK_XPBDEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Intermediate\Build\Win64\UE4Editor\Development\FBIK_XPBD\Module.FBIK_XPBD.cpp.obj"
+"D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Intermediate\Build\Win64\UE4Editor\Development\FBIK_XPBD\Module.FBIK_XPBD.gen.cpp.obj"
+"D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Intermediate\Build\Win64\UE4Editor\Development\FBIK_XPBD\Default.rc2.res"
+/OUT:"D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Intermediate\Build\Win64\UE4Editor\Development\FBIK_XPBD\UE4Editor-FBIK_XPBD.lib"
+/INCLUDE:IMPLEMENT_MODULE_FBIK_XPBD
