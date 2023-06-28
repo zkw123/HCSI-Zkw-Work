@@ -1,0 +1,33 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FBIK_XPBD.cpp.obj": [
+			"ClimbIKSolver.cpp.obj",
+			"PBIKBody.cpp.obj",
+			"PBIKConstraint.cpp.obj",
+			"PBIKDebug.cpp.obj",
+			"PBIKSolver.cpp.obj",
+			"ErrorCalcSolver.cpp.obj",
+			"FBIK_XPBD.cpp.obj",
+			"MySpringInterp.cpp.obj",
+			"RigUnit_ClimbIK.cpp.obj",
+			"RigUnit_ErrorCalc.cpp.obj",
+			"RigUnit_PBIK.cpp.obj",
+			"RigUnit_ProcessFootOffset.cpp.obj",
+			"RigUnit_RandomPoint.cpp.obj"
+		],
+		"Module.FBIK_XPBD.gen.cpp.obj": [
+			"ClimbIKSolver.gen.cpp.obj",
+			"ErrorCalcSolver.gen.cpp.obj",
+			"FBIK_XPBD.init.gen.cpp.obj",
+			"MySpringInterp.gen.cpp.obj",
+			"PBIK_Shared.gen.cpp.obj",
+			"PBIKSolver.gen.cpp.obj",
+			"RigUnit_ClimbIK.gen.cpp.obj",
+			"RigUnit_ErrorCalc.gen.cpp.obj",
+			"RigUnit_PBIK.gen.cpp.obj",
+			"RigUnit_ProcessFootOffset.gen.cpp.obj",
+			"RigUnit_RandomPoint.gen.cpp.obj"
+		]
+	}
+}
