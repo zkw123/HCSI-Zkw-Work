@@ -1,0 +1,2 @@
+D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Intermediate\Build\Win64\UE4Editor\Development\FBIK_XPBD\Definitions.FBIK_XPBD.h
+D:\Unreal Projects\FullBodyIK_XPBD\Plugins\FBIK_XPBD\Source\FBIK_XPBD\Public\FBIK_XPBD.h
